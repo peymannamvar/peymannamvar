@@ -40,7 +40,10 @@
 
 <h3>📚&nbsp; Currently Learning</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="80" height="80"/>&nbsp;
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
+
+<br>
 
 <h2>🔭 &nbsp;GitHub Stats</h2>
 <br>
