@@ -28,7 +28,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </p>
@@ -45,7 +45,6 @@
 <br>
 
 <h2>🔭 &nbsp;GitHub Stats</h2>
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymannamvar&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymannamvar&show_icons=true&bg_color=00000000)
 
