@@ -28,7 +28,7 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="background-color:#181717; padding:5px; border-radius:6px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
 </p>
@@ -40,9 +40,7 @@
 
 <h3>📚&nbsp; Currently Learning</h3>
 
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
-
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="80" height="80"/>&nbsp;
 
 <br>
 
