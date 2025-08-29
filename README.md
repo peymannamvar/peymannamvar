@@ -14,21 +14,35 @@
 
 <h3>🗣️ &nbsp;Languages</h3> 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
+<p align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+</p>
 
 
 <h3>🖥️&nbsp; OS & Tools</h3>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" title="GitHub" alt="GitHub" width="40" height="40" style="background-color:#181717; padding:5px; border-radius:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
+</p>
 
+<h3>🖌️&nbsp; Currently Learning</h3>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
 
 <h3>📚&nbsp; Currently Learning</h3>
 
-![Backend Development](https://img.shields.io/badge/Backend-Development-8A2BE2?style=for-the-badge)
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)
+
+
 
 <br>
 
@@ -36,6 +50,14 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymannamvar&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymannamvar&show_icons=true&bg_color=00000000)
+
+
+
+
+  <!-- Tools -->
+
+
+  <!-- Design -->
 
 
   
