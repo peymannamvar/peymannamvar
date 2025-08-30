@@ -1,5 +1,7 @@
 <h1>Hi There!, I'm Peyman Namvar👋</h1>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" align="center">
+
 <h3>🧑‍💻 &nbsp;About Me</h3>
 
 - ❤️ &nbsp;Backend Developer Programmer
@@ -42,12 +44,10 @@
 
 <h3>📚&nbsp; Currently Learning</h3>
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="40" height="40"/>&nbsp;
-
 <br>
 
 <h2>🔭 &nbsp;GitHub Stats</h2>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymannamvar&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymannamvar&show_icons=true&bg_color=00000000)
