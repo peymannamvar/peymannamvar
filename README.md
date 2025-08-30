@@ -1,6 +1,6 @@
 <h1>Hi There!, I'm Peyman Namvar👋</h1>
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif" align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" align="center">
 
 <h3>🧑‍💻 &nbsp;About Me</h3>
 
