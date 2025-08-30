@@ -47,7 +47,7 @@
 <br>
 
 <h2>🔭 &nbsp;GitHub Stats</h2>
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymannamvar&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymannamvar&show_icons=true&bg_color=00000000)
