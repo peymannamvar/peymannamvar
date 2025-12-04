@@ -16,7 +16,7 @@
 
 <h3>🗣️ &nbsp;Languages</h3> 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql)](https://skillicons.dev)
 
 
 <h3>🖥️&nbsp; OS & Tools</h3>
@@ -27,12 +27,13 @@
 
 <h3>🖌️&nbsp; Design Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,pothoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
 
 
 <h3>📚&nbsp; Currently Learning</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=laravel)](https://skillicons.dev)
+
 
 <br>
 
