@@ -7,7 +7,7 @@
 - ❤️ &nbsp;Backend Developer Programmer
 - 🪄 &nbsp;Content Creator
 - 🎓 &nbsp;Softwer Engineering Student
-- 🌱 &nbsp;Learning Django
+- 🌱 &nbsp;Learning Laravel
 - ✍️ &nbsp;Coding, Reading And Drinking Tea My Hobby :)
 
 <br>
