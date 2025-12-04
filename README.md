@@ -21,7 +21,7 @@
 
 <h3>🖥️&nbsp; OS & Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,bash,regex,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,regex,tailwindcss,wordpress)](https://skillicons.dev)
 
 
 
