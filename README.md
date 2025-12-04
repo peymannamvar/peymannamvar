@@ -16,34 +16,18 @@
 
 <h3>🗣️ &nbsp;Languages</h3> 
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,php,mysql)](https://skillicons.dev)
 
 
 <h3>🖥️&nbsp; OS & Tools</h3>
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSREZqjWyJx235EV6pe-6GJDN7tFYaT6b-NWE_wSkjWe8VlKj_FHgx86keQjwnGTnEk24I&usqp=CAU" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,bash,regex,tailwindcss)](https://skillicons.dev)
 
 
-</p>
 
 <h3>🖌️&nbsp; Design Tools</h3>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" title="Photoshop" alt="Photoshop" width="40"  height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=figma,photohoshop)](https://skillicons.dev)
 
 
 <h3>📚&nbsp; Currently Learning</h3>
