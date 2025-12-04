@@ -27,7 +27,7 @@
 
 <h3>🖌️&nbsp; Design Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photohoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,pothoshop)](https://skillicons.dev)
 
 
 <h3>📚&nbsp; Currently Learning</h3>
