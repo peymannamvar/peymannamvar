@@ -40,6 +40,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peymannamvar&langs_count=8) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peymannamvar&show_icons=true&bg_color=00000000)
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+![Rahul's Github Stats Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peymannamvar&theme=radical&hide_border=true)
