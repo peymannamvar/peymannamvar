@@ -6,8 +6,6 @@
 
 <h2>🔧 &nbsp;Tools</h2>
 
-<h3>🗣️ &nbsp;Languages</h3> 
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,regex,tailwindcss,wordpress)](https://skillicons.dev)
