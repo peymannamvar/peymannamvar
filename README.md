@@ -4,13 +4,13 @@
 
 <br>
 
-<h2>🔧 &nbsp;Tools</h2>
+<h2>🛠 &nbsp;Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql)](https://skillicons.dev)
+<br>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,regex,tailwindcss,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,php,mysql,linux,regex,tailwindcss,wordpress)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,photoshop,illustrator,xd,vscode,phpstorm,vim,git,github,gitlab)](https://skillicons.dev)
 
 <br>
 
